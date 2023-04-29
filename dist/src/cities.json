@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Москва",
+    "coordinates": "55.7485169,37.0720698",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": "59.9171483,30.0448782",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Мытищи",
+    "coordinates": "55.9190301,37.667455",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Белгород",
+    "coordinates": "50.599713,36.598262",
+    "region_id": 31,
+    "district_id": 1
+  },
+  
+  {
+    "name": "Брянск",
+    "coordinates": "53.263531,34.416110",
+    "region_id": 32,
+    "district_id": 1
+  },
+  
+  
+  {
+    "name": "Воронеж",
+    "coordinates": "51.675497,39.208882",
+    "region_id": 36,
+    "district_id": 1
+  },
+  
+  {
+    "name": "Иваново",
+    "coordinates": "57.005067,40.976645",
+    "region_id": 37,
+    "district_id": 1
+  },
+  {
+    "name": "Калуга",
+    "coordinates": "54.551858,36.285097",
+    "region_id": 40,
+    "district_id": 1
+  },
+  
+  {
+    "name": "Курск",
+    "coordinates": "51.709196,36.156224",
+    "region_id": 46,
+    "district_id": 1
+  },
+  
+  {
+    "name": "Липецк",
+    "coordinates": "52.612200,39.598123",
+    "region_id": 48,
+    "district_id": 1
+  },
+  {
+    "name": "Орехово-Зуево",
+    "coordinates": "55.803435,38.966790",
+    "region_id": 50,
+    "district_id": 1
+  }
+]
+  
